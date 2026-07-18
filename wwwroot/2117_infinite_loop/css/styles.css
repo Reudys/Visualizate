@@ -1,0 +1,10 @@
+.logo {
+    width: 900px; /* Ajusta el tamaño */
+    height: 120px;
+    margin: 0 auto 30px;
+
+    background-image: url("/img/visualizate_solido_blanco_negro_SIN_FONDO.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
