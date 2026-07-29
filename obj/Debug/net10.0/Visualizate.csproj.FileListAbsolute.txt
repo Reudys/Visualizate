@@ -21,7 +21,6 @@ C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\rjsmcshtml.dswa.cache.
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\scopedcss\bundle\Visualizate.styles.css
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\scopedcss\projectbundle\Visualizate.bundle.scp.css
-C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\dzucgtdfh1-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\8uvmjkccaa-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\hyj8493ofu-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\9rc8b14y6u-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -83,8 +82,6 @@ C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\oo6wq0exv5-
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\ji80007uff-{0}-muycvpuwrr-muycvpuwrr.gz
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\lbuhbyp42l-{0}-87fc7y1x7t-87fc7y1x7t.gz
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\e7wnquv4bf-{0}-mlv21k5csn-mlv21k5csn.gz
-C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\8ryhkfkz4a-{0}-vprvkfmuxt-vprvkfmuxt.gz
-C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\pivzu1hanf-{0}-vprvkfmuxt-vprvkfmuxt.gz
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\staticwebassets.build.json
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\staticwebassets.build.json.cache
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\staticwebassets.development.json
@@ -97,7 +94,6 @@ C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\Visualizate.genruntime
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\ref\Visualizate.dll
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\qwxbi7rxr0-{0}-z5jyisouil-z5jyisouil.gz
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\dm5lmaxr2a-{0}-20lysx76en-20lysx76en.gz
-C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\r7811vlz2r-{0}-enocpgrwf6-enocpgrwf6.gz
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\c2mkcms8o1-{0}-q63dy0kbdj-q63dy0kbdj.gz
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\3zllyq40r1-{0}-r1iow9ycl7-r1iow9ycl7.gz
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\nbcz5pbl9c-{0}-ue7sqttije-ue7sqttije.gz
@@ -115,3 +111,8 @@ C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\yz4w2sgnf6-
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\bs4oo3pbnl-{0}-mmzakapvcy-mmzakapvcy.gz
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\dgeb504mdv-{0}-61m266nj4l-61m266nj4l.gz
 C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\o8funb9b7n-{0}-8vxybdbzmv-8vxybdbzmv.gz
+C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\Visualizate.sourcelink.json
+C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\8ryhkfkz4a-{0}-g426n1lrsz-g426n1lrsz.gz
+C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\pivzu1hanf-{0}-g426n1lrsz-g426n1lrsz.gz
+C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\dzucgtdfh1-{0}-iqpar6bi8u-iqpar6bi8u.gz
+C:\Users\reudy\source\repos\Visualizate\obj\Debug\net10.0\compressed\r7811vlz2r-{0}-kx13tt6za2-kx13tt6za2.gz
