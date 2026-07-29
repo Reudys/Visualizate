@@ -1,8 +1,7 @@
 /*
 
 Tooplate 2117 Infinite Loop
-
-https://www.tooplate.com/view/2117-infinite-loop
+Colores adaptados a la identidad de Visualizate
 
 */
 
@@ -11,20 +10,20 @@ https://www.tooplate.com/view/2117-infinite-loop
 body {
 	font-family: "Raleway", sans-serif;
 	font-size: 1.2em;
-  color: #707070;
+  color: #182A42;
   margin: 0;
   padding: 0;
   overflow-x: hidden;
 }
 a {
   transition: all 0.3s ease;
-  color: #38B;
+  color: #2E6DAD;
 }
 
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #D40;
+  color: #1E4D8C;
 }
 
 a:focus {
@@ -36,7 +35,7 @@ a:focus {
 }
 
 .btn:hover {
-  background-color: #ced4da;
+  background-color: #D8E4F0;
 }
 
 blockquote {
@@ -55,7 +54,7 @@ blockquote {
 }
 
 .tm-text-primary {
-  color: #37A;
+  color: #1E4D8C;
 }
 
 .tm-font-big {
@@ -64,14 +63,14 @@ blockquote {
 
 .tm-btn-primary {
   color: white;
-  background-color: #369;
+  background-color: #1E4D8C;
   padding: 14px 30px;
 }
 
 .tm-btn-primary:hover,
 .tm-btn-primary:focus {
   color: white;
-  background-color: #38B;
+  background-color: #2E6DAD;
 }
 
 /* Navbar */
@@ -85,8 +84,8 @@ blockquote {
 }
 
 .tm-navbar.scroll {
-  background-color: white;
-  border-bottom: 1px solid #e9ecef;
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #D8E4F0;
 }
 
 .navbar-brand {
@@ -97,11 +96,11 @@ blockquote {
 
 .navbar-brand:hover,
 .tm-navbar.scroll .navbar-brand:hover {
-  color: #38B;
+  color: #2E6DAD;
 }
 
 .tm-navbar.scroll .navbar-brand {
-  color: #369;
+  color: #1E4D8C;
 }
 
 .nav-item {
@@ -113,14 +112,14 @@ blockquote {
 }
 
 .tm-navbar.scroll .tm-nav-link {
-  color: #369;
+  color: #1E4D8C;
 }
 
 .tm-navbar.scroll .tm-nav-link:hover,
 .tm-navbar.scroll .tm-nav-link.current,
 .tm-nav-link:hover {
-  color: #FFF;
-  background-color: #369;
+  color: #FFFFFF;
+  background-color: #1E4D8C;
 }
 
 .navbar-toggler {
@@ -135,17 +134,17 @@ blockquote {
 }
 
 .tm-navbar.scroll .navbar-toggler {
-  border: 1px solid #707070;
+  border: 1px solid #182A42;
 }
 
 .tm-navbar.scroll .navbar-toggler-icon {
-  color: #707070;
+  color: #182A42;
 }
 
 /* Hero */
 
 #infinite {
-	background-color: #222;
+	background-color: #1A2F4E;
   background-image: url(../img/fondo.jpeg);
   background-repeat: no-repeat;
   height: 100vh;
@@ -197,11 +196,11 @@ blockquote {
 
 .tm-hero-title {
   font-size: 3.5rem;
-  text-shadow: 2px 2px 2px #333;
+  text-shadow: 2px 2px 2px #182A42;
 }
 
 .tm-hero-subtitle {
-  text-shadow: 2px 2px 2px #333;
+  text-shadow: 2px 2px 2px #182A42;
 }
 
 .tm-intro-next {
@@ -227,17 +226,17 @@ blockquote {
 }
 
 .tm-down-arrow {
-  	color: #FFF;
+  	color: #FFFFFF;
     cursor: pointer;
-    background: #357;
+    background: #1E4D8C;
     padding: 15px 40px;
     transition: all 0.3s ease;
 }
 
 .tm-down-arrow:hover,
 .tm-down-arrow:focus {
-  color: #FFF;
-  background: #37A;
+  color: #FFFFFF;
+  background: #2E6DAD;
   padding: 20px 50px;
 }
 
@@ -258,7 +257,7 @@ blockquote {
 
 .tm-icon {
   display: block;
-  color: #37A;
+  color: #1E4D8C;
 }
 
 .tm-continue {
@@ -289,7 +288,7 @@ blockquote {
 .tm-bg-overlay {
   width: 100%;
   height: 100%;
-  background: rgba(20, 70, 80, 0.2);
+  background: rgba(26, 47, 78, 0.35);
   position: absolute;
   top: 0;
   left: 0;
@@ -350,7 +349,7 @@ blockquote {
 .slick-dots li button:focus:before,
 .slick-dots li.slick-active button:before {
   opacity: 1;
-  color: #3ba0dd;
+  color: #2E6DAD;
 }
 
 .tm-testimonials-carousel .slick-dots li button:before {
@@ -375,7 +374,7 @@ blockquote {
   position: relative;
   float: left;
   overflow: hidden;
-  background: #3085a3;
+  background: #1A2F4E;
   text-align: center;
   cursor: pointer;
 }
@@ -446,7 +445,7 @@ blockquote {
 /*---------------*/
 
 figure.effect-honey {
-  background: #4a3753;
+  background: #1A2F4E;
   max-width: 220px;
 }
 
@@ -466,7 +465,7 @@ figure.effect-honey figcaption::before {
   left: 0;
   width: 100%;
   height: 10px;
-  background: #38C;
+  background: #2E6DAD;
   content: "";
   -webkit-transform: translate3d(0, 10px, 0);
   transform: translate3d(0, 10px, 0);
@@ -514,7 +513,7 @@ figure.effect-honey:hover h2 i {
 
 #contact {
   color: white;
-  background-color: #001828;
+  background-color: #1A2F4E;
   background-image: url(../img/infinite-loop-03.jpg);
   background-position: center;
   background-repeat: no-repeat;
@@ -542,7 +541,7 @@ figure.effect-honey:hover h2 i {
 
 .item-link:hover i,
 .item-link:hover span {
-  color: #3496d8;
+  color: #6A9AC4;
 }
 
 .tm-input {
@@ -558,14 +557,14 @@ figure.effect-honey:hover h2 i {
 .tm-btn-submit {
 	font-size: 0.9em;
 	color: #fff;
-	background-color: #369;
+	background-color: #1E4D8C;
 	width: 50%;
 	margin-bottom: 60px;
 }
 
 .tm-btn-submit:hover {
 	color: #fff;
-	background-color: #38B;
+	background-color: #2E6DAD;
 }
 
 ::placeholder {
@@ -597,7 +596,7 @@ figure.effect-honey:hover h2 i {
 }
 
 .tm-footer a:hover {
-	color: #9CF;
+	color: #6A9AC4;
 }
 
 .tm-footer-link {
@@ -606,7 +605,7 @@ figure.effect-honey:hover h2 i {
 
 .tm-footer-link:hover,
 .tm-footer-link:focus {
-  color: #38B;
+  color: #2E6DAD;
   text-decoration: none;
 }
 
@@ -668,13 +667,13 @@ p {
   }
 
   .navbar-collapse {
-    background-color: rgb(255, 255, 255);
+    background-color: #FFFFFF;
     padding: 10px;
     border-radius: 3px;
   }
 
   .navbar-collapse .nav-link {
-    color: #707070;
+    color: #182A42;
 	padding-right: 20px;
   }
 }
